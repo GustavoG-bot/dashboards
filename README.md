@@ -5,7 +5,7 @@ Hello! These are some dashboards that I have made while studying PBI
 
 ## Chess Dashboard
 
-![Chess Dashboard](dashboard_chess)
+![Chess Dashboard](dashboard_chess.png)
 
 ## Overview
 
@@ -36,7 +36,7 @@ Feel free to explore and visualize the data using the dashboard to gain more ins
 
 # Transportation Dashboard
 
-![Transportation Dashboard](dash_transpo)
+![Transportation Dashboard](dash_transpo.png)
 
 ## Overview
 
