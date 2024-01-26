@@ -5,7 +5,7 @@ Hello! These are some dashboards that I have made while studying PBI
 
 ## Chess Dashboard
 
-![Chess Dashboard](dashboard_chess_png)
+![Chess Dashboard](dashboard_chess_png.png)
 
 ## Overview
 
